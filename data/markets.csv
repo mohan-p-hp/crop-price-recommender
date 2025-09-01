@@ -1,0 +1,11 @@
+market_id,market_name,lat,lon,district,state,fee_pct
+M001,Bangalore APMC,12.9716,77.5946,Bangalore,Karnataka,0.01
+M002,Mysore APMC,12.2958,76.6394,Mysore,Karnataka,0.012
+M003,Hubli APMC,15.3647,75.1240,Dharwad,Karnataka,0.011
+M004,Belgaum APMC,15.8497,74.4977,Belgaum,Karnataka,0.013
+M005,Davangere APMC,14.4644,75.9218,Davangere,Karnataka,0.01
+M006,Shimoga APMC,13.9299,75.5681,Shimoga,Karnataka,0.012
+M007,Mangalore APMC,12.9141,74.8560,Dakshina Kannada,Karnataka,0.014
+M008,Gulbarga APMC,17.3297,76.8343,Kalaburagi,Karnataka,0.01
+M009,Bidar APMC,17.9133,77.5301,Bidar,Karnataka,0.013
+M010,Ballari APMC,15.1394,76.9214,Ballari,Karnataka,0.011
